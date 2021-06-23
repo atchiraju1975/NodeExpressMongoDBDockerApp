@@ -9,7 +9,7 @@ Interested in learning more about Docker? Visit https://www.pluralsight.com/cour
 
 1. Install Docker for Windows or Docker for Mac (If you're on Windows 7 install Docker Toolbox: http://docker.com/toolbox).
 
-2. Open a command prompt.
+2. Open a command prompt and hit enter.
 
 3. Run the commands listed in `node.dockerfile` (see the comments at the top of the file).
 
